@@ -1,0 +1,18 @@
+{
+  "enemies": [
+    {
+      "name": "Worm",
+      "start_pos": [21, 10],
+      "final_pos": [26, 10]
+    }
+
+
+
+  ]
+
+
+
+
+
+
+}

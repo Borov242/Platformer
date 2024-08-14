@@ -1,0 +1,104 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_2.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
+    "fileStates": {
+        "D:/SkySmart/Платформер/sprites/Coin_Gems/MonedaD.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "Green Portal Sprite Sheet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "Portal.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "TileSet.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "TileSet2.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "background.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "character.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "level_1.tmx": {
+            "scale": 1,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 457,
+                "y": 426
+            }
+        },
+        "level_2.tmx": {
+            "scale": 1.0321354166666665,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 479.588232325781,
+                "y": 240.27854872079533
+            }
+        },
+        "level_3.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 466,
+                "y": 218
+            }
+        },
+        "oak_woods_tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        }
+    },
+    "last.exportedFilePath": "D:/SkySmart/Платформер/maps",
+    "last.externalTilesetPath": "D:/SkySmart/Платформер/maps",
+    "last.imagePath": "D:/SkySmart/Платформер/maps/TileSet",
+    "map.fixedSize": true,
+    "map.lastUsedExportFilter": "Все файлы (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 24,
+    "map.tileWidth": 24,
+    "map.width": 40,
+    "openFiles": [
+        "level_1.tmx",
+        "level_2.tmx",
+        "level_3.tmx"
+    ],
+    "project": "безымянный.tiled-project",
+    "recentFiles": [
+        "level_1.tmx",
+        "level_3.tmx",
+        "level_2.tmx",
+        "TileSet.tsx",
+        "character.tsx",
+        "background.tsx",
+        "TileSet2.tsx",
+        "oak_woods_tileset.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 192,
+        "width": 512
+    },
+    "tileset.type": 0
+}
